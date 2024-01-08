@@ -1,5 +1,6 @@
-### Hello!! My name is Ezequiel Otoni and i am Front-End Developer!
-##
+## Hello!! I'm Ezequiel Otoni - Front-End Developer!
+
+
 
 - 🌱 I’m currently learning Angular and Java
 - 👯 I’m looking to collaborate on personal, professional and voluntary projects
